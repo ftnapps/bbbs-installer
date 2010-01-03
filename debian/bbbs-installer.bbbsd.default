@@ -6,7 +6,7 @@
 # This is a POSIX shell fragment
 #
 
-# Run Synchronet at startup ? Set to "Yes" after configuring the BBBS
+# Run BBBSd at startup ? Set to "Yes" after configuring the BBBS
 # /opt/bbbs/scripts/in.bbbsd script in order for it to start at bootup.
 BBBSD_ENABLE=No
 
