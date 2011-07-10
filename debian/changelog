@@ -1,3 +1,12 @@
+bbbs-installer (4.01-0squeeze2) squeeze; urgency=low
+
+  * Changes for debian/control:
+    - Clean up white space.
+    - Update the Vcs-Browser entry for the bbbsdeb site.
+    - Update the Homepage entry for the bbbsdeb site.
+
+ -- Robert James Clay <jame@rocasa.us>  Sun, 10 Jul 2011 17:31:05 -0400
+
 bbbs-installer (4.01-0squeeze1) squeeze; urgency=low
 
   * Initial Release of the BBBS debian installer package. 
