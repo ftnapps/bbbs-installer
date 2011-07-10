@@ -9,10 +9,10 @@ Homepage: http://bbbsdeb.github.com
 
 Package: bbbs-installer
 Architecture: i386
-Pre-Depends: wget 
+Pre-Depends: wget
 Depends: adduser
-Recommends: zip, unzip                                                                                                                        
-Suggests: arc, arj, unrar-free, unzoo, zoo, lha                                                                                        
+Recommends: zip, unzip
+Suggests: arc, arj, unrar-free, unzoo, zoo, lha
 Provides: httpd, ftp-server, pop3-server, telnet-server
 Description: BBBS v4.01 Flag Installer
  BBBS v4.01 Flag. Complete BBS package with
@@ -24,6 +24,7 @@ Description: BBBS v4.01 Flag Installer
  Mg, multilingual, CD-ROM, VT320, ANSI, voice,
  multitask, charsets, accounts, Zmodem, HYDRA,
  multinode, Kermit, BZLink, FAX, IRC, and more
+ .
  This installer package downloads the archive
  from the www.bbbs.net web site, or uses the
  one in the tmp directory if already present,
