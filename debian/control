@@ -5,7 +5,7 @@ Maintainer: Robert James Clay <jame@rocasa.us>
 Build-Depends: debhelper (>= 5)
 Standards-Version: 3.7.2
 Vcs-Browser: http://github.com/bbbsdeb/pkg-bbbs
-Homepage: http://rocasa.org/bbbsdeb 
+Homepage: http://bbbsdeb.github.com
 
 Package: bbbs-installer
 Architecture: i386
